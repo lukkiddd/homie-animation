@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="165px" height="114px" viewBox="0 0 165 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>Group + foot</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="14" y="64" width="6" height="4" rx="1"></rect>
+        <rect id="path-2" x="57" y="75" width="6" height="4" rx="1"></rect>
+        <rect id="path-3" x="121" y="61" width="6" height="3" rx="1"></rect>
+        <rect id="path-4" x="121" y="74" width="6" height="3" rx="1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1-Copy-2" sketch:type="MSArtboardGroup" transform="translate(-113.000000, -248.000000)">
+            <g id="Group-+-foot" sketch:type="MSLayerGroup" transform="translate(114.000000, 248.000000)">
+                <g id="Group" transform="translate(11.000000, 0.000000)">
+                    <rect id="Rectangle-1-Copy-11" fill="#CEE8FF" sketch:type="MSShapeGroup" x="14" y="34" width="113" height="70"></rect>
+                    <g id="Rectangle-18-Copy">
+                        <use fill="#A4C0F2" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                        <use fill="none" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Rectangle-18-Copy-2">
+                        <use fill="#A6CDFD" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                        <use fill="none" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="Rectangle-18-Copy-3">
+                        <use fill="#A6CDFD" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                        <use fill="none" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Rectangle-18-Copy-4">
+                        <use fill="#A6CDFD" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-4"></use>
+                        <use fill="none" xlink:href="#path-4"></use>
+                    </g>
+                    <rect id="Rectangle-1" stroke="#1F435E" stroke-width="2" sketch:type="MSShapeGroup" x="14" y="34" width="113" height="70"></rect>
+                    <rect id="Rectangle-18" fill="#A6CDFD" sketch:type="MSShapeGroup" x="15" y="43" width="111" height="11"></rect>
+                    <rect id="Rectangle-1-Copy-4" stroke="#1F435E" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup" x="26" y="52" width="31" height="52"></rect>
+                    <rect id="Rectangle-1-Copy-5" stroke="#1F435E" fill="#FFFFFF" sketch:type="MSShapeGroup" x="34" y="59" width="15" height="27"></rect>
+                    <rect id="Rectangle-1-Copy-6" stroke="#1F435E" fill="#FFFFFF" sketch:type="MSShapeGroup" x="34" y="93" width="15" height="1.5"></rect>
+                    <g transform="translate(68.000000, 52.000000)" sketch:type="MSShapeGroup">
+                        <rect id="Rectangle-1-Copy-12" stroke="#1F435E" stroke-width="2" fill="#FFFFFF" x="3" y="0" width="45" height="32"></rect>
+                        <path d="M21.4199219,1 L13,31 L4.00000001,31 L4.00000001,12.3361816 L7.41992188,1 L21.4199219,1 Z" id="Rectangle-16" fill="#EDF8F8"></path>
+                        <path d="M47.4199219,1 L39,31 L25,31 L33.4199219,1 L47.4199219,1 Z" id="Rectangle-16-Copy" fill="#EDF8F8"></path>
+                        <rect id="Rectangle-1-Copy-8" stroke="#1F435E" stroke-width="2" fill="#FFFFFF" x="0" y="32" width="52" height="5"></rect>
+                        <rect id="Rectangle-1-Copy-9" stroke="#1F435E" stroke-width="2" x="3" y="0" width="45" height="32"></rect>
+                        <rect id="Rectangle-1-Copy-10" stroke="#1F435E" fill="#FFFFFF" x="3.5" y="16" width="44" height="2"></rect>
+                    </g>
+                    <path d="M127.330078,0 L141.000001,32.9382102 L141,45 L1.11022302e-16,45 L1.11022302e-16,32.9382102 L13.6699219,0 L127.330078,0 Z" id="Rectangle-18" stroke="#1F435E" stroke-width="2" fill="#3764EB" sketch:type="MSShapeGroup"></path>
+                    <rect id="Rectangle-1" stroke="#1F435E" stroke-width="2" fill="#3764EB" sketch:type="MSShapeGroup" x="14" y="97" width="113" height="7"></rect>
+                </g>
+                <g id="foot" transform="translate(0.000000, 104.000000)" stroke="#1F435E" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-1" x="0" y="0" width="163" height="9"></rect>
+                    <rect id="Rectangle-1-Copy" x="0" y="0" width="32.5999985" height="9"></rect>
+                    <rect id="Rectangle-1-Copy-2" x="64.6000061" y="0" width="32.5999985" height="9"></rect>
+                    <rect id="Rectangle-1-Copy-3" x="97.2000122" y="0" width="32.5999985" height="9"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

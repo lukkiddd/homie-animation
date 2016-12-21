@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="19px" viewBox="0 0 52 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1-Copy" sketch:type="MSArtboardGroup" transform="translate(-262.000000, -98.000000)" stroke="#508EF3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(14.000000, 19.000000)">
+                <g transform="translate(249.000000, 79.000000)" sketch:type="MSShapeGroup">
+                    <path d="M20.68,18 L1.32,18" id="Line-Copy-3" fill="#FFFFFF"></path>
+                    <path d="M39.68,14 L10.32,14" id="Line-Copy-6" fill="#FFFFFF"></path>
+                    <path d="M49.68,14 L44.32,14" id="Line-Copy-7" fill="#FFFFFF"></path>
+                    <path d="M34.68,18 L25.32,18" id="Line-Copy-4" fill="#FFFFFF"></path>
+                    <path d="M43.68,18 L39.32,18" id="Line-Copy-5" fill="#FFFFFF"></path>
+                    <path d="M2.67070325,16.5149346 C5.432127,16.5149346 7.67070325,14.2763583 7.67070325,11.5149346 C7.67070325,8.75351085 5.432127,6.5149346 2.67070325,6.5149346" id="Oval-4" transform="translate(5.170703, 11.514935) rotate(-90.000000) translate(-5.170703, -11.514935) "></path>
+                    <path d="M6.09353623,12.0069278 C9.94489752,12.0069278 13.0670427,8.64906345 13.0670427,4.50692783 C13.0670427,0.364792204 9.94489752,-2.99307217 6.09353623,-2.99307217" id="Oval-4-Copy" transform="translate(9.580289, 4.506928) rotate(-89.000000) translate(-9.580289, -4.506928) "></path>
+                    <path d="M21,12 C23.209139,12 25,9.53756612 25,6.5 C25,3.46243388 23.209139,1 21,1" id="Oval-4-Copy-2" transform="translate(23.000000, 6.500000) rotate(-89.000000) translate(-23.000000, -6.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
